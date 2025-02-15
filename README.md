@@ -34,9 +34,6 @@ AI Cancer Care provides an easy and efficient way to craft personalized cancer c
 - **Personalized Treatment Plans**: Analyzes patient data, medical records, and guidelines to identify gaps in cancer screening and follow-up care, crafting tailored treatment plans for individual patients.
 - **Secure Data Sharing**: Shares sensitive data securely using encryption and cryptographic features, protecting patient information while facilitating necessary data access for healthcare providers.
 
-## 🏆 Inspiration
-
-This project is deeply personal to me. My grandmother recently passed away from cancer, and witnessing her struggle firsthand inspired me to create a solution that could help others in similar situations. She often faced difficulties in coordinating her care and keeping track of her treatment plan, which sometimes led to missed appointments and delayed treatments. I wanted to build an application that could alleviate these challenges for other patients and their families.
 
 ## ⚙️ Setup and Deployment
 
@@ -123,10 +120,3 @@ const handleFileUpload = async (file, filetype) => {
 };
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
