@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="https://www.imghippo.com/i/ZK4zy1722288141.jpg" title="Project Screenshot" target="_blank">
-    <img src="https://i.imghippo.com/files/ZK4zy1722288141.jpg" width="100%" alt="Project Screenshot"/>
+    
   </a>
   <br />
   <div>
